@@ -1,0 +1,32 @@
+.visited-countries-container {
+  width: 30%;
+  background-color: #1f1f2f;
+  margin: 10px;
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.para-remove-button-container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para-remove-button-container p {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #fff;
+}
+
+.para-remove-button-container button {
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 12px;
+  color: #fff;
+  width: 100px;
+  height: 38px;
+  margin: 0;
+}
